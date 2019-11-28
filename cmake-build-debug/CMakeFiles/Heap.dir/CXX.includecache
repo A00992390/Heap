@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/msi/Desktop/Courses/Term03/Comp-3522_Object Oriented Programming 2/Codes/Lab/Heap/main.cpp
+iostream
+-
+
