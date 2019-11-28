@@ -6,7 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/c/Users/msi/Desktop/Courses/Term03/Comp-3522_Object Oriented Programming 2/Codes/Lab/Heap/main.cpp
+/cygdrive/c/Users/msi/Desktop/Courses/Term03/Comp-3522_Object Oriented Programming 2/Codes/Lab/Heap/heap.hpp
+vector
+-
 iostream
 -
+algorithm
+-
+
+/cygdrive/c/Users/msi/Desktop/Courses/Term03/Comp-3522_Object Oriented Programming 2/Codes/Lab/Heap/main.cpp
+heap.hpp
+/cygdrive/c/Users/msi/Desktop/Courses/Term03/Comp-3522_Object Oriented Programming 2/Codes/Lab/Heap/heap.hpp
 
