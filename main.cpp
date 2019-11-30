@@ -12,6 +12,7 @@ int main()
     heap<int>::get_instance(v).push(15);
     // print heap
     cout << "after adding 5 ints: " << heap<int>::get_instance(v) << endl;
+    cout << "empty heap? " << boolalpha << heap<int>::get_instance(v).is_empty() << endl;
     // pop the two max then print
     heap<int>::get_instance(v).pop();
     heap<int>::get_instance(v).pop();
